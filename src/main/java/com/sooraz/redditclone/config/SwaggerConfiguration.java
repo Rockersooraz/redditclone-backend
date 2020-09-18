@@ -30,7 +30,7 @@ public class SwaggerConfiguration {
                 .title("Reddit Clone API")
                 .version("1.0")
                 .description("API for Reddit Clone Application")
-                .contact(new Contact("Suraj Adhikari","sadsd@sdsd.com", "rockersoopraz80@gmail.com"))
+                .contact(new Contact("Suraj Adhikari", "sadsd@sdsd.com", "rockersoopraz80@gmail.com"))
                 .license("Apache Liscence Version 2.0")
                 .build();
     }
